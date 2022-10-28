@@ -15,10 +15,10 @@ This project uses [bun](https://bun.sh) as dependency manager. It means there is
 
 ```bash
 bun install
-bun lint
-bun test # watch mode
-bun test:cov # one shot with coverage
-bun dev # development server
+bun run lint
+bun run test # watch mode
+bun run test:cov # one shot with coverage
+bun run dev # development server
 bun run build # production
-bun preview # preview production
+bun run preview # preview production
 ```
