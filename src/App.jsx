@@ -4,7 +4,7 @@ const App = () => (
     <div className='bg-white p-1'>
       <p className='text-xl text-blue-700'>with yarn/bun</p>
     </div>
-    <p className='text-base'>with eslint</p>
+    <p className='text-base'>with eslint v9</p>
     <p className='text-xl'>
       with local{' '}
       <span className='font-roboto-mono text-3xl font-thin'>Roboto Mono</span>{' '}
